@@ -11,6 +11,15 @@ The application will use a deep learning model for the classification of images 
 ![Output sample](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/results/gifgifgifgif.gif)
 ![Output sample](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/results/ezgif.com-video-to-gif.gif)
 
+# Dataset
+
+Dataset for training these models was prepared manually. A snapshot of dataset is given below:
+
+![alt text](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/IMAGE_A67.jpg)
+
+
+For Complete dataset you may mail me at chahatgoyal1999@gmail.com
+
 # Installation Guide
 Here are the steps and procedures you need to follow in order to execute our project as given in [Intallation guide](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/Installation%20Guide.docx)
 
@@ -92,10 +101,14 @@ Predict the labels of the softmax based representation of the test videos.Predic
 
 # links for video test results
 Working demo of our models can be seen in the following youtube videos:
-[ISL (images) to alphabets (text)(live streaming)](https://www.youtube.com/watch?v=d5kGSsQPO-E&feature=youtu.be)
-[ISL (Videos) to alphabets/gestures (text)(test images)](https://www.youtube.com/watch?v=E1d6CupAJHQ&feature=youtu.be)
-[ISL (Videos) to alphabets/gestures (text)]https://www.youtube.com/watch?v=bW8oX36kigw&feature=youtu.be
-[Audio to gestures(video)] https://www.youtube.com/watch?v=LJ_DwAnrxb0&feature=youtu.be
+
++ [ISL (images) to alphabets (text)(live streaming)](https://www.youtube.com/watch?v=d5kGSsQPO-E&feature=youtu.be)
+
++ [ISL (Videos) to alphabets/gestures (text)(test images)](https://www.youtube.com/watch?v=E1d6CupAJHQ&feature=youtu.be)
+
++ [ISL (Videos) to alphabets/gestures (text)](https://www.youtube.com/watch?v=bW8oX36kigw&feature=youtu.be)
+
++ [Audio to gestures(video)](https://www.youtube.com/watch?v=LJ_DwAnrxb0&feature=youtu.be)
 
 
 
