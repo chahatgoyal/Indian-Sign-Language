@@ -21,7 +21,7 @@ Dataset for training these models was prepared manually. A snapshot of dataset i
 For Complete dataset you may mail me at chahatgoyal1999@gmail.com
 
 # Installation Guide
-Here are the steps and procedures you need to follow in order to execute our project as given in [Intallation guide](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/Installation%20Guide.docx)
+Here are the steps and procedures you need to follow in order to execute our project as given in [Installation guide](https://github.com/chahatgoyal/Indian-Sign-Language/blob/master/Installation%20Guide.docx)
 
 Step 1: Download the source code and make sure that all the files are contained in a single directory “sign_language” (only an example the directory can have any other name)
 
